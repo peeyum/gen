@@ -1,4 +1,4 @@
 # generator
 
 generates random passwords with the selected options <br>
-<a href="https://high.ong/gen">link</a>
+<a href="https://zelv.cc/gen">link</a>
